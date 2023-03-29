@@ -1,7 +1,3 @@
-Hello World
-yes
-Yes
-All
+Edits to branch one
 
-cd..
-dir/w
+This is my new branch one
